@@ -1,6 +1,6 @@
 # TriboliumGait
 This repository includes:
-- Python code used to analyse locomotion parameters for gait and leg kinematic analysis.
+- Python code used to analyse _Tribolium castaneum_ larval motor parameters, gait and leg kinematics.
 - Python code used to extract data from .csv files.
 - Fiji macros used for video processing for FIMTrack tracking.
 
